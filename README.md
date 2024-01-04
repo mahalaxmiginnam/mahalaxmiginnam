@@ -4,7 +4,6 @@
 
 Experienced Data Engineer driven to optimize scalable systems and devise innovative solutions for intricate data challenges. Enthusiastic about contributing expertise to impactful projects
 
-- Based in **Bengaluru, India**.
 - Reach out ot me [**Email**](mailto:mahaginnam@gmail.com) or [**X/Twitter**](https://www.twitter.com/Mahaginnam).
 - Expertise in **Database, Backend Engineering & Data System Design and development**.
 
