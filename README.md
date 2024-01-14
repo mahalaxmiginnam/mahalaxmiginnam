@@ -31,7 +31,6 @@ Experienced Data Engineer driven to optimize scalable systems and devise innovat
   - Swagger/OpenAPI Specification, Postman API, SOAP (Simple Object Access Protocol)
   - API Gateway (e.g., AWS API Gateway, Kong)
   - Microservices architecture, OAuth 2.0, JWT (JSON Web Tokens), API documentation tools (e.g., Swagger UI, Redoc)
-  - API Development
 
 - **Machine Learning**:
   - ML Algorithms: Logistic Regression, KNN, Naive Bayes, SVM
@@ -41,15 +40,14 @@ Experienced Data Engineer driven to optimize scalable systems and devise innovat
   - Advanced ML Models: ANN, CNN, LSTM
 
 - **Web Development**:
-  - Django,Spring, Spring Boot, Node.js/Express.js, OAuth
-  - Docker, Kubernetes, Flask, Django, Netlify, Heroku
+  - Django, Spring Boot, Node.js/Express.js.
+  - Docker, Kubernetes, Flask, Netlify, Heroku
 
 - **Version Control and Platforms**:
   - Git, GitHub
 
 - **Operating Systems**:
   - Linux Terminal
-
 
 ### Socials
 
